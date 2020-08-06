@@ -1,5 +1,3 @@
-# python
-
 My Library of Machine Learning and Deep Learning :
 
 1. sklearn
