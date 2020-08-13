@@ -1,4 +1,4 @@
-My Library of Machine Learning and Deep Learning. 
+Library of Machine Learning and Deep Learning. 
 
 Mainly with following python frameworks
 
