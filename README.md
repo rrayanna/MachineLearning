@@ -1,7 +1,8 @@
-My Library of Machine Learning and Deep Learning :
+My Library of Machine Learning and Deep Learning. 
+
+Mainly with following python frameworks
 
 1. sklearn
-2. tenorflow 
-3. pytorch
-4. keras
-5. fastai
+2. tensorflow/keras
+3. pytorch 
+4. fastai
