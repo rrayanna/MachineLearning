@@ -1,4 +1,4 @@
-Thank you Stanford Team for the cheatsheets
+Stanford Team - Thank you for the cheatsheets.
 
 /shervine/teaching/
 From CS 221
