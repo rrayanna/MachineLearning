@@ -75,4 +75,4 @@ callbacks = myCallback()
 
 # Train the model
 history = model.fit_generator(train_generator, steps_per_epoch=63, epochs=10,
-validation_data=validation_generator, callbacks = [callbacks])
+validation_data=validation_generator, callbacks = [callbacks]) 
